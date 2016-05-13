@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car Monitor</string>
+    <string name="main_text_view">Please Load File From Toolbar</string>
+    <string name="main_activity_menuSettings">Settings</string>
+    <string name="main_activity_loadFile">Load File</string>
+    <string name="main_activity_menuAbout">About</string>
+    <string name="map_api">MAP - API</string>
+    <string name="rpm_text">RPM :</string>
+    <string name="speed_text">Speed :</string>
+    <string name="engine_temperature_text">Engine Temperature :</string>
+    <string name="fuel_amount_text">Fuel Amount :</string>
+    <string name="exit">EXIT</string>
+</resources>
